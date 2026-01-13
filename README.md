@@ -1,9 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Python open-source projects<br>
-👯 I’m looking to collaborate on internship opportunities in Game Design<br>
-🤝 I’m looking for help becoming a Professional Unreal Engine Game Developer<br>
-🌱 I’m currently learning Rust and mastering C++<br>
-💬 Ask me about Game Design, VFX, 3D Art<br>
+- Interested in **Artificial Intelligence, Machine Learning, and Full-Stack Development**
+- Strong foundation in **Python-based backend development**
+- Experience building **AI-driven and user-focused web applications**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-singla-186556217/)  
@@ -23,5 +21,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
+
+## 📊 GitHub Stats
+![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananya9999999&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya9999999&layout=compact)
 
 <!-- Edited to match Ananya's profile -->
