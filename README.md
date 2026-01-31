@@ -23,5 +23,5 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 
 # 📊 GitHub Stats:
-[![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya9999999)](https://github.com/Ananya9999999/github-readme-stats)
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya9999999&show_icons=true&count_private=true&theme=tokyonight)
 
